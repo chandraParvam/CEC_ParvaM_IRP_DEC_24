@@ -1,6 +1,4 @@
 // find the number even or odd
-// check voters
-// greater than 18 
 
 #include<stdio.h>
 int main(){
